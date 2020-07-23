@@ -16,6 +16,9 @@ public class Practica8GitHubJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hola Mundo");
+        System.out.println("Practica8 GitHub-Java-Netbeans");
+        System.out.println("Gina");
     }
     
 }
