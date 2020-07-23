@@ -20,10 +20,14 @@ public class Practica8GitHubJava {
         System.out.println("Practica8 GitHub-Java-Netbeans");
         System.out.println("Gina");
         System.out.println("suma(3,4)="+suma(3,4));
+        System.out.println("multiplica(5,8)="+multiplica(5,8));
     }
     
     public static int suma(int a, int b){
         return a+b;
+    }
+     public static int multiplica(int a, int b){
+        return a*b;
     }
     
 }
