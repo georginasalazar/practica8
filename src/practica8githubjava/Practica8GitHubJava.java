@@ -19,6 +19,11 @@ public class Practica8GitHubJava {
         System.out.println("Hola Mundo");
         System.out.println("Practica8 GitHub-Java-Netbeans");
         System.out.println("Gina");
+        System.out.println("suma(3,4)="+suma(3,4));
+    }
+    
+    public static int suma(int a, int b){
+        return a+b;
     }
     
 }
