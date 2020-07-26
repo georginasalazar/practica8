@@ -19,8 +19,10 @@ public class Practica8GitHubJava {
         System.out.println("Hola Mundo");
         System.out.println("Practica8 GitHub-Java-Netbeans");
         System.out.println("Gina");
-        System.out.println("suma(3,4)="+suma(3,4));
-        System.out.println("multiplica(5,8)="+multiplica(5,8));
+        int n1=7, n2=9;
+        System.out.println("suma("+n1+","+n2+")="+suma(n1,n2));
+        n1=4; n2=6;
+        System.out.println("multiplica("+n1+","+n2+")="+multiplica(n1,n2));
     }
     
     public static int suma(int a, int b){
